@@ -11,12 +11,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "ADC 2022 Azure SWA Hugo demo"
+    title = "Ralfs neue Webseite"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
   [languages.fr]
-    title = "ADC 2022 Azure SWA Hugo demo FR"
+    title = "Ralfs neue Webseite FR"
     weight = 2
     contentDir = "content/fr"
 
